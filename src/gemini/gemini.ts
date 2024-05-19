@@ -1,6 +1,6 @@
 import {Content, GoogleGenerativeAI} from '@google/generative-ai'
 
-const API_KEY = 'AIzaSyDX9WlDShxI0d-deg85OU7sCjB88A6FZak'
+const API_KEY = ''
 
 let genAi: GoogleGenerativeAI | undefined = undefined
 
